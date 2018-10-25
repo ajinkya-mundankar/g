@@ -4,6 +4,6 @@ Now editing on update readme branch
 
 updates on master before rebase
 
-## Purpose
+## Repository Purpose
 
-just for fun
+Graphical Tweak
